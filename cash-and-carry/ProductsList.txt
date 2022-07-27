@@ -1,0 +1,61 @@
+SNO	:PROD ID	:COST		:QUANTITY	:PROD NAME
+1)	:D019		:80		:29		:Plain Yogurt	
+2)	:D139		:100		:30		:Flavoured Yogurt (Strawberry)	
+3)	:D276		:100		:30		:Flavoured Yogurt (Mango)	
+4)	:D398		:165		:50		:Cow Milk	
+5)	:D436		:200		:48		:Soya Milk	
+6)	:D552		:200		:50		:Almond Milk	
+7)	:D664		:250		:30		:Plain Butter	
+8)	:D742		:290		:30		:Salted Butter	
+9)	:D859		:350		:30		:Mozzarella Cheese	
+10)	:D962		:325		:30		:Cheddar Cheese	
+11)	:D1023		:130		:27		:Heavy Cream	
+12)	:D1175		:170		:29		:Eggs (Dozen)	
+13)	:CE023		:1500		:98		:Cooking Oil (Canola)	
+14)	:CE176		:1500		:100		:Cooking Oil (Sunflower)	
+15)	:CE291		:120		:100		:Macaroni	
+16)	:CE354		:120		:100		:Spaghetti	
+17)	:CE461		:150		:100		:Basmati Rice	
+18)	:CE520		:1000		:99		:Flour	
+19)	:CE672		:300		:98		:Pulses (Masoor)	
+20)	:CE727		:200		:100		:Pulses (Mung)	
+21)	:CE859		:250		:100		:Pulses (Lobia)	
+22)	:CE934		:350		:100		:Pulses (Channa)	
+23)	:CE1021		:50		:100		:Salt	
+24)	:CE1143		:50		:100		:Pepper	
+25)	:CE1269		:50		:100		:Chilli Powder	
+26)	:BE063		:25		:38		:Juices (Mango)	
+27)	:BE128		:25		:40		:Juices (Apple)	
+28)	:BE254		:25		:40		:Juices (Punch)	
+29)	:BE359		:70		:43		:CocaCola	
+30)	:BE447		:70		:50		:Sprite	
+31)	:BE572		:70		:50		:7up	
+32)	:BE628		:70		:50		:Mountain Dew	
+33)	:BE747		:200		:49		:Black Tea	
+34)	:BE853		:150		:50		:Green Tea	
+35)	:BE966		:200		:50		:Coffee	
+36)	:BE1073		:150		:50		:Sparkling Water	
+37)	:BE1184		:50		:48		:Plain Water	
+38)	:BS073		:30		:30		:Toothbrush	
+39)	:BS155		:60		:30		:Toothpaste	
+40)	:BS248		:325		:38		:Shampoo	
+41)	:BS391		:355		:38		:Conditioner	
+42)	:BS465		:455		:30		:Hair Mask	
+43)	:BS540		:150		:100		:Toilet Paper	
+44)	:BS626		:50		:47		:Air fresheners	
+45)	:BS790		:1200		:29		:Towels	
+46)	:BS833		:900		:50		:Toilet Cleaner	
+47)	:ST028		:10		:100		:Pencils	
+48)	:ST195		:25		:100		:Ballpen (black)	
+49)	:ST267		:25		:100		:Ballpen (blue)	
+50)	:ST345		:10		:100		:Bundle of 5 Colorpapers (Red)	
+51)	:ST477		:10		:100		:Bundle of 5 Colorpapers (Blue)	
+52)	:ST534		:10		:100		:Bundle of 5 Colorpapers (Yellow)	
+53)	:ST698		:20		:100		:Chart Paper (White)	
+54)	:ST758		:20		:100		:Chart Paper (Black)	
+55)	:ST820		:20		:100		:Chart Paper (Purple)	
+56)	:ST994		:20		:100		:Chart Paper (Yellow)	
+57)	:ST1009		:150		:60		:Scotch tape	
+58)	:ST1128		:300		:60		:Paper Tape	
+59)	:ST1234		:190		:100		:Notebook (Pages 200)	
+60)	:ST1364		:510		:98		:Notebook (Pages 500)	

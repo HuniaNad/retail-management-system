@@ -1,0 +1,6 @@
+SNO	:ADMIN ID	:PHONE NO	:EMAIL						:PASSWORD
+1)	:ADM-553	:09007860100	:eesha14@gmail.com				:eesha553
+2)	:ADM-729	:12312312312	:malaika@gmail.com				:malaika729
+3)	:ADM-128	:13579135791	:phoebe@gmail.com				:phoebe128
+4)	:ADM-664	:02468024680	:janice@gmail.com				:janice664
+5)	:ADM-821	:78978978978	:monica@gmail.com				:monica821

@@ -1,0 +1,18 @@
+SNO	:TIME & DATE OF PRUCHASE	:PROD ID	:COST		:QUANTITY PURCHASED	:SUBTOTAL	:CUSTOMER
+1)	:Wed Jun 23 22:13:35 PKT 2021	:BE359		:70		:2			:540.0		:Hunia nadeem
+					:BE747		:200		:1
+2)	:Wed Jun 23 22:14:53 PKT 2021	:BS790		:1200		:1			:1960.0		:Ayesha
+					:D1175		:170		:1
+					:D1023		:130		:3
+3)	:Wed Jun 23 22:16:08 PKT 2021	:ST1364		:510		:2			:1164.5		:HUN-123
+					:ST028		:15		:10
+4)	:Wed Jun 23 22:18:40 PKT 2021	:BE063		:25		:2			:365.5		:RIZ-980
+					:BE1184		:50		:2
+					:D019		:80		:1
+5)	:Wed Jun 23 22:21:07 PKT 2021	:BS626		:50		:3			:1453.5		:RAC-321
+					:BS248		:325		:2
+					:BS391		:355		:2
+6)	:Wed Jun 23 22:23:00 PKT 2021	:BE359		:70		:5			:550.0		:Ali
+7)	:Wed Jun 23 22:24:30 PKT 2021	:CE672		:300		:2			:1800.0		:Samantha
+					:CE520		:1000		:1
+8)	:Fri Jun 25 10:43:03 PKT 2021	:CE023		:1500		:2			:2720.0		:HUN-123
